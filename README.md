@@ -36,7 +36,7 @@ A full-stack job board application built with React, TypeScript, Node.js, Expres
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Abbinavraam/JobBoardMiniApp.git
 cd JobBoardMini-App
 ```
 
@@ -50,7 +50,7 @@ npm install
 Create a `.env` file in the backend directory with the following content:
 ```
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/job-board
+MONGODB_URI=mongodb://localhost:27017
 NODE_ENV=development
 ```
 
